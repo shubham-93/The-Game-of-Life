@@ -1,4 +1,4 @@
-# The-Game-of-life
+# The-Game-of-Life
 Simulation of the Game of Life in Python and C.
 
 The Game of Life is a cellular automaton whose evolution is determined just by an initial state of living and dead cells.
