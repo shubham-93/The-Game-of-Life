@@ -13,6 +13,8 @@ These simple rules give rise to many interesting and complicated patterns. This 
 
 Below are some interesting patterns. Feel free to explore more of your own!
 
+In order to build (on MacOS), cd to the directory 'C' and then enter 'make; ./game_of_life_raylib' in your terminal.
+
 C simulations:
 
 1) Queen bee shuttle
